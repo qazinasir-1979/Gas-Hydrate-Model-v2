@@ -1,0 +1,6 @@
+{
+  "name": "CO2-CH4 Hydrate Equilibrium & Gas Separation Modeling",
+  "description": "Thermodynamic modeling and experimental validation of CO2+CH4 gas hydrate phase equilibria for gas separation efficiency using modified Chen-Guo, NRTL, and SRK EOS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
